@@ -15,7 +15,7 @@ https://www.thingiverse.com/codytolene/designs
 
 Unleash your creativity and enjoy the endless possibilities of 3D printing with these resources. Happy printing!
 
-## Table of Contents
+## Index
 
 - [Flipper Zero - WiFi Dev Board Case][print-flipper-zero-wifi-case]
 - [Flipper Zero - WiFi Dev Board Case Boot Cover][print-flipper-zero-wifi-case-boot-cover]
