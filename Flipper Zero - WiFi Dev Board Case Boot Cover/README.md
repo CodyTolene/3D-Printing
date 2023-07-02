@@ -7,9 +7,9 @@
 
 This boot cover is made to fit my [Flipper Zero][link-flipper-zero] WiFi Dev Board case found at the following locations:
 
-https://www.thingiverse.com/codytolene/designs
+https://www.thingiverse.com/thing:6090184
 
-https://github.com/CodyTolene/3D-Printing
+https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case
 
 This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beautiful. I highly recommend their products.
 
@@ -29,3 +29,4 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 [link-awok-case]: https://www.thingiverse.com/thing:5961313
 [link-flipper-zero]: https://flipperzero.one/
+
