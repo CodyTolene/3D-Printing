@@ -28,7 +28,7 @@ A remix of [Witcher towel hook/key holder][link-witcher-key-hook] by Vladeer.
 
 <!-- LINKS -->
 
-[download-3mf]:
-[download-stl]:
+[download-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Witcher%20Emblem%20Key%20Hook/Witcher%20Emblem%20Key%20Hook.3mf
+[download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Witcher%20Emblem%20Key%20Hook/Witcher%20Emblem%20Key%20Hook.stl
 [link-witcher-key-hook]: https://www.thingiverse.com/thing:4835019
-[view-stl]:
+[view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Witcher%20Emblem%20Key%20Hook/Witcher%20Emblem%20Key%20Hook.stl
