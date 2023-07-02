@@ -37,9 +37,9 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 <!-- LINKS -->
 
-[download-3mf]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.3mf
-[download-stl]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl
-[download-label-3mf]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.3mf
-[download-label-stl]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.stl
+[download-3mf]: Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.3mf
+[download-label-3mf]: Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.3mf
+[download-label-stl]: Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.stl
+[download-stl]: Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl
 [link-awok-case]: https://www.thingiverse.com/thing:5961313
 [link-flipper-zero]: https://flipperzero.one/
