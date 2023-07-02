@@ -1,7 +1,23 @@
-A remix of "Witcher towel hook/key holder (full)" by Vladeer, fresh off the forge of Kaer Morhen.
+<div align="center">
+  <img align="center" src="../.github/images/3d.png" />
+  <h2 align="center">Nintendo Switch Game Cartridge Panel (slim)</h2>
+</div>
 
-https://www.thingiverse.com/thing:4835019
+---
 
-This remix adds a dovetail slide wall mount back plate. Mount the back plate and slide the medallion key hook into place. The dovetail rail on the back plate is designed a hair smaller than the front pieces' back-inlet so you shouldn't have any trouble sliding it on if it's cleaned up nicely.
+### Description
 
-"I manage because I have to. Because I've no other way out. Because I've overcome the vanity and pride of being different. I've understood that they are a pitiful defense against being different.” – Geralt
+Introducing the exquisite Witcher Emblem, forged with precision at Kaer Morhen. This mountable masterpiece boasts a dovetail slide wall mount back plate, allowing you to effortlessly attach and slide the medallion key hook into place. The meticulous design ensures a perfect fit, as the dovetail rail on the back plate is crafted slightly smaller than the back-inlet of the front piece. With a little cleaning, you'll experience seamless sliding without any hassle.
+
+A remix of [Witcher towel hook/key holder][link-witcher-key-hook] by Vladeer.
+
+---
+
+### Images
+
+<img align="center" src="images/preview_01.png" />
+<img align="center" src="images/preview_02.png" />
+
+<!-- LINKS -->
+
+[link-witcher-key-hook]: https://www.thingiverse.com/thing:4835019
