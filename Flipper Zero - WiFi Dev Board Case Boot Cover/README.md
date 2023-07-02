@@ -15,7 +15,17 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 <p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
----
+### File Downloads
+
+- Boot Cover (3mf): [Download][download-3mf]
+
+- Boot Cover (stl): [Download](Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl)
+
+- Boot Cover w/ "ESP32" label (3mf): [Download][download-label-3mf]
+
+- Boot Cover w/ "ESP32" label (stl): [Download][download-label-stl]
+
+<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
 ### Images
 
@@ -27,6 +37,9 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 <!-- LINKS -->
 
+[download-3mf]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.3mf
+[download-stl]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl
+[download-label-3mf]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.3mf
+[download-label-stl]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.stl
 [link-awok-case]: https://www.thingiverse.com/thing:5961313
 [link-flipper-zero]: https://flipperzero.one/
-
