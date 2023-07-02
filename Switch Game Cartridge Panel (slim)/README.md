@@ -3,8 +3,6 @@
   <h2 align="center">Nintendo Switch Game Cartridge Panel (slim)</h2>
 </div>
 
----
-
 ### Description
 
 Introducing the sleek and practical alternative to the Nintendo Switch Game Cartridge Wall Mount Holder/Display Panel. This version is designed to be lightweight and efficient, perfect for your gaming needs. It can securely hold up to six Nintendo Switch Game Cartridges and is available in both wall mount and non-wall mount options.
@@ -16,11 +14,15 @@ x = 21.5 mm
 y = 31.25 mm
 z = 3.5 mm
 
+<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+
 ---
 
 ### Images
 
 <img align="center" src="images/preview_01.png" />
 <img align="center" src="images/preview_02.png" />
+
+<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
 <!-- LINKS -->

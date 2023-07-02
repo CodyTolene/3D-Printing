@@ -3,8 +3,6 @@
   <h2 align="center">Nintendo Switch Game Cartridge Panel</h2>
 </div>
 
----
-
 ### Description
 
 Introducing the ultimate Nintendo Switch Game Cartridge Wall Mount Holder/Display Panel designed specifically for avid gamers like you. With a capacity to securely hold up to six Nintendo Switch Game Cartridges, this accessory is a game-changer for organizing and showcasing your prized collection. Choose between the dynamic wall mount or versatile non-wall mount versions to suit your gaming setup.
@@ -18,6 +16,8 @@ x = 21.5 mm
 y = 31.25 mm
 z = 3.5 mm
 
+<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+
 ---
 
 ### Images
@@ -26,5 +26,7 @@ z = 3.5 mm
 <img align="center" src="images/preview_02.png" />
 <img align="center" src="images/preview_03.png" />
 <img align="center" src="images/preview_04.png" />
+
+<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
 <!-- LINKS -->
