@@ -19,7 +19,9 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 ### Images
 
-Coming soon...
+<img align="center" src="images/preview_01.png" />
+<img align="center" src="images/preview_02.png" />
+<img align="center" src="images/preview_03.png" />
 
 <p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
