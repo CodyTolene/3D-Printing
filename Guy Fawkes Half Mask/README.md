@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <img align="center" src="../.github/images/3d.png" />
   <h2 align="center">Guy Fawkes Half Mask</h2>
@@ -13,9 +15,15 @@ Set your layer height to a precise 0.16mm to ensure intricate details in your pr
 
 Unleash your inner enigma with the Guy Fawkes Printable Half Mask. Let it shroud your identity and evoke a sense of mystery as you venture into the night. Whether it's for Halloween revelry or adding an air of intrigue to your everyday attire, this mask is sure to captivate the imagination. Embrace the unknown and embrace the allure of this enigmatic accessory.
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
----
+### File Downloads
+
+- Guy Fawkes Half Mask (3mf): [Download][download-3mf]
+
+- Guy Fawkes Half Mask (stl): [Download][download-stl] | [View][view-stl]
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 ### Images
 
@@ -26,6 +34,10 @@ Unleash your inner enigma with the Guy Fawkes Printable Half Mask. Let it shroud
 <img align="center" src="images/preview_05.png" />
 <img align="center" src="images/preview_06.png" />
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
+
+[download-3mf]:
+[download-stl]:
+[view-stl]:

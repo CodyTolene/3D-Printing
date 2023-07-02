@@ -9,17 +9,26 @@ Introducing the exquisite Witcher Emblem, forged with precision at Kaer Morhen. 
 
 A remix of [Witcher towel hook/key holder][link-witcher-key-hook] by Vladeer.
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
----
+### File Downloads
+
+- Witcher Emblem Key Hook (3mf): [Download][download-3mf]
+
+- Witcher Emblem Key Hook (stl): [Download][download-stl] | [View][view-stl]
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 ### Images
 
 <img align="center" src="images/preview_01.png" />
 <img align="center" src="images/preview_02.png" />
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
 
+[download-3mf]:
+[download-stl]:
 [link-witcher-key-hook]: https://www.thingiverse.com/thing:4835019
+[view-stl]:

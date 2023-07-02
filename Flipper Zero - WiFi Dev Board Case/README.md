@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <img align="center" src="../.github/images/3d.png" />
   <h2 align="center">Flipper Zero: Wi-Fi Dev Board Case (Basic)</h2>
@@ -11,7 +13,7 @@ This creation is a remix of magdong's [Wi-Fi Dev Board Case][link-wifi-case] met
 
 For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boasting a sleek black oxide finish. To conveniently acquire these screws, follow this [Amazon Link][link-amazon-parts] (https://amzn.to/43Z3rvN).
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 ### File Downloads
 
@@ -23,7 +25,7 @@ For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boas
 
 - Wi-Fi Dev Board Case Bottom (stl): [Download][download-bottom-stl] | [View][view-bottom-stl]
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 ### Images
 
@@ -39,7 +41,7 @@ For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boas
 <img align="center" src="images/preview_10.png" />
 <img align="center" src="images/preview_11.png" />
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
 

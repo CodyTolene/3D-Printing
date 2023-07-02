@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <img align="center" src="../.github/images/3d.png" />
   <h2 align="center">Nintendo Switch Game Cartridge Panel</h2>
@@ -16,9 +18,15 @@ x = 21.5 mm
 y = 31.25 mm
 z = 3.5 mm
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
----
+### File Downloads
+
+- Switch Game Cartridge Panel (3mf): [Download][download-3mf]
+
+- Switch Game Cartridge Panel (stl): [Download][download-stl] | [View][view-stl]
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 ### Images
 
@@ -27,6 +35,10 @@ z = 3.5 mm
 <img align="center" src="images/preview_03.png" />
 <img align="center" src="images/preview_04.png" />
 
-<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
+
+[download-3mf]:
+[download-stl]:
+[view-stl]:
