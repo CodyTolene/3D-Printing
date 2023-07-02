@@ -19,7 +19,7 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 - Boot Cover (3mf): [Download][download-3mf]
 
-- Boot Cover (stl): [Download](Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl)
+- Boot Cover (stl): [Download][download-stl]
 
 - Boot Cover w/ "ESP32" label (3mf): [Download][download-label-3mf]
 

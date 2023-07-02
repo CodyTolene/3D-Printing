@@ -13,7 +13,17 @@ For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boas
 
 <p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
----
+### File Downloads
+
+- Wi-Fi Dev Board Case Top (3mf): [Download][download-top-3mf]
+
+- Wi-Fi Dev Board Case Top (stl): [Download][download-top-stl] | [View][view-top-stl]
+
+- Wi-Fi Dev Board Case Bottom (3mf): [Download][download-bottom-3mf]
+
+- Wi-Fi Dev Board Case Bottom (stl): [Download][download-bottom-stl] | [View][view-bottom-stl]
+
+<p align="right">[ <a href="../README.md">Back to index</a> ]</p>
 
 ### Images
 
@@ -33,6 +43,12 @@ For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boas
 
 <!-- LINKS -->
 
+[download-bottom-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/Flipper_Zero_WiFi_Dev_Board_Case_Bottom.3mf
+[download-bottom-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/Flipper_Zero_WiFi_Dev_Board_Case_Bottom.stl
+[download-top-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/Flipper_Zero_WiFi_Dev_Board_Case_Top.3mf
+[download-top-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/Flipper_Zero_WiFi_Dev_Board_Case_Top.stl
 [link-amazon-parts]: https://amzn.to/43Z3rvN
 [link-flipper-zero]: https://flipperzero.one/
 [link-wifi-case]: https://www.thingiverse.com/thing:5564906
+[view-bottom-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/Flipper_Zero_WiFi_Dev_Board_Case_Bottom.stl
+[view-top-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/Flipper_Zero_WiFi_Dev_Board_Case_Top.stl
