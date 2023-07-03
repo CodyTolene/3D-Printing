@@ -31,7 +31,7 @@ My print settings:
 
 - Flipper Zero - Infrared (IR) Blaster Case (3mf): [Download][download-3mf]
 
-- Flipper Zero - Infrared (IR) Blaster Case(stl): [Download][download-stl] | [View][view-stl]
+- Flipper Zero - Infrared (IR) Blaster Case (stl): [Download][download-stl] | [View][view-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
