@@ -33,7 +33,7 @@ Cody
 <!-- LINKS -->
 
 [print-flipper-zero-infrared-ir-blaster-case]: Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/README.md
-[print-flipper-zero-infrared-ir-blaster-case-boot-cover]: todo.md
+[print-flipper-zero-infrared-ir-blaster-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/README.md
 [print-flipper-zero-wifi-case-boot-cover]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/README.md
 [print-flipper-zero-wifi-case]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/README.md
 [print-guy-fawkes-half-mask]: Guy%20Fawkes%20Half%20Mask/README.md

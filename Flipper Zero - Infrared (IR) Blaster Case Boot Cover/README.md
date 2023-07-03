@@ -9,9 +9,9 @@
 
 This boot cover is made to fit my Flipper Zero Infrared (IR) Blaster case found at the following locations:
 
-- TODO
+- https://www.thingiverse.com/thing:6106025
 
-- TODO
+- https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case
 
 My print settings:
 
@@ -33,14 +33,15 @@ My print settings:
 
 ### Images
 
-Coming soon...
-
-<!-- <img align="center" src="images/preview_01.png" /> -->
+<img align="center" src="images/preview_01.png" />
+<img align="center" src="images/preview_02.png" />
+<img align="center" src="images/preview_03.png" />
+<img align="center" src="images/preview_04.png" />
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
 
-[download-3mf]: todo.3mf
-[download-stl]: todo.stl
-[view-stl]: viewtodo.stl
+[download-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/flipper-zero-infrared-ir-blaster-case-boot-cover.3mf
+[download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/flipper-zero-infrared-ir-blaster-case-boot-cover.stl
+[view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/flipper-zero-infrared-ir-blaster-case-boot-cover.stl
