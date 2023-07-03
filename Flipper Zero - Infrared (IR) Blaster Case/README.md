@@ -15,6 +15,8 @@ What this case does not do:
 - Read you a poem.
 - Protect you from the Rebel Alliance's Red Squadron.
 
+For a secure assembly, make use of four M2x4mm screws along with four M2 nuts. To conveniently acquire these screws, follow this Amazon link: (https://amzn.to/3NTcd8R).
+
 My print settings:
 
 - Hatchbox PLA
