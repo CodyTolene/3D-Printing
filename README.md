@@ -17,6 +17,7 @@ Unleash your creativity and enjoy the endless possibilities of 3D printing with 
 
 ## Index
 
+- [Flipper Zero - Infrared (IR) Blaster Case][print-flipper-zero-infrared-ir-blaster-case]
 - [Flipper Zero - WiFi Dev Board Case][print-flipper-zero-wifi-case]
 - [Flipper Zero - WiFi Dev Board Case Boot Cover][print-flipper-zero-wifi-case-boot-cover]
 - [Guy Fawkes Half Mask][print-guy-fawkes-half-mask]
@@ -24,8 +25,13 @@ Unleash your creativity and enjoy the endless possibilities of 3D printing with 
 - [Switch Game Cartridge Panel (slim)][print-switch-game-cartridge-panel-slim]
 - [Witcher Emblem Key Hook][print-witcher-emblem-key-hook]
 
+Thank you for visiting my free 3D print repository on GitHub! Your visit means a lot to me, and I hope your 3D printing journey is filled with enjoyable experiences and remarkable accomplishments. Happy printing, my friend!
+
+Cody
+
 <!-- LINKS -->
 
+[print-flipper-zero-infrared-ir-blaster-case]: Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/README.md
 [print-flipper-zero-wifi-case-boot-cover]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/README.md
 [print-flipper-zero-wifi-case]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/README.md
 [print-guy-fawkes-half-mask]: Guy%20Fawkes%20Half%20Mask/README.md
