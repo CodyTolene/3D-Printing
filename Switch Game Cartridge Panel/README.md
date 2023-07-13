@@ -22,13 +22,11 @@ z = 3.5 mm
 
 ### File Downloads
 
-- Switch Game Cartridge Panel (3mf): [Download][download-3mf]
+- Switch Game Cartridge Panel: [3mf][download-3mf] | [stl][download-stl] | [view][view-stl]
 
-- Switch Game Cartridge Panel (stl): [Download][download-stl] | [View][view-stl]
+- Switch Game Cartridge Panel (wall mountable): [3mf][download-wall-mount-3mf] | [stl][download-wall-mount-stl] | [view][view-wall-mount-stl]
 
-- Switch Game Cartridge Panel (Wall Mount) (3mf): [Download][download-wall-mount-3mf]
-
-- Switch Game Cartridge Panel (Wall Mount) (stl): [Download][download-wall-mount-stl] | [View][view-wall-mount-stl]
+For the slim version of this print, see [here][link-switch-game-cartridge-panel-slim].
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
@@ -47,5 +45,6 @@ z = 3.5 mm
 [download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel.stl
 [download-wall-mount-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel%20Wall%20Mount.3mf
 [download-wall-mount-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel%20Wall%20Mount.stl
+[link-switch-game-cartridge-panel-slim]: https://github.com/CodyTolene/3D-Printing/tree/main/Switch%20Game%20Cartridge%20Panel%20%28slim%29
 [view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel.stl
 [view-wall-mount-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel%20Wall%20Mount.stl

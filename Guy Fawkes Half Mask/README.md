@@ -19,9 +19,7 @@ Unleash your inner enigma with the Guy Fawkes Printable Half Mask. Let it shroud
 
 ### File Downloads
 
-- Guy Fawkes Half Mask (3mf): [Download][download-3mf]
-
-- Guy Fawkes Half Mask (stl): [Download][download-stl] | [View][view-stl]
+- Guy Fawkes Half Mask: [3mf][download-3mf] | [stl][download-stl] | [view][view-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 

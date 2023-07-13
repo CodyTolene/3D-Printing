@@ -13,9 +13,7 @@ A remix of [Witcher towel hook/key holder][link-witcher-key-hook] by Vladeer.
 
 ### File Downloads
 
-- Witcher Emblem Key Hook (3mf): [Download][download-3mf]
-
-- Witcher Emblem Key Hook (stl): [Download][download-stl] | [View][view-stl]
+- Witcher Emblem Key Hook: [3mf][download-3mf] | [stl][download-stl] | [view][view-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 

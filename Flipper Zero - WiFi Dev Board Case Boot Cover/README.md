@@ -19,21 +19,13 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 ### File Downloads
 
-- Boot Cover, no labels (3mf): [Download][download-3mf]
+- Boot Cover, no labels: [3mf][download-3mf] | [stl][download-stl] | [view][view-stl]
 
-- Boot Cover, no labels (stl): [Download][download-stl] | [View][view-stl]
+- Boot Cover w/ "ESP32" label: [3mf][download-esp32-3mf] | [stl][download-esp32-stl] | [view][view-esp32-stl]
 
-- Boot Cover w/ "ESP32" label (3mf): [Download][download-esp32-3mf]
+- Boot Cover w/ "Evil Portal" label: [3mf][download-evil-portal-3mf] | [stl][download-evil-portal-stl] | [view][view-evil-portal-stl]
 
-- Boot Cover w/ "ESP32" label (stl): [Download][download-esp32-stl] | [View][view-esp32-stl]
-
-- Boot Cover w/ "Evil Portal" label (3mf): [Download][download-evil-portal-3mf]
-
-- Boot Cover w/ "Evil Portal" label (stl): [Download][download-evil-portal-stl] | [View][view-evil-portal-stl]
-
-- Boot Cover w/ "WiFi Marauder" label (3mf): [Download][download-marauder-3mf]
-
-- Boot Cover w/ "WiFi Marauder" label (stl): [Download][download-marauder-stl] | [View][view-marauder-stl]
+- Boot Cover w/ "WiFi Marauder" label: [3mf][download-marauder-3mf] | [stl][download-marauder-stl] | [view][view-marauder-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 

@@ -25,9 +25,7 @@ My print settings:
 
 ### File Downloads
 
-- Infrared (IR) Blaster Case Boot Cover (3mf): [Download][download-3mf]
-
-- Infrared (IR) Blaster Case Boot Cover (stl): [Download][download-stl] | [View][view-stl]
+- Infrared (IR) Blaster Case Boot Cover: [3mf][download-3mf] | [stl][download-stl] | [view][view-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 

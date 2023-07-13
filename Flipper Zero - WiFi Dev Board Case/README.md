@@ -17,17 +17,11 @@ For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boas
 
 ### File Downloads
 
-- Wi-Fi Dev Board Case Top (open, 3mf): [Download][download-top-3mf]
+- Wi-Fi Dev Board Case Top (open front): [3mf][download-top-3mf] | [stl][download-top-stl] | [view][view-top-stl]
 
-- Wi-Fi Dev Board Case Top (open, stl): [Download][download-top-stl] | [View][view-top-stl]
+- Wi-Fi Dev Board Case Top (closed front): [3mf][download-top-closed-3mf] | [stl][download-top-closed-stl] | [view][view-top-closed-stl]
 
-- Wi-Fi Dev Board Case Top (closed, 3mf): [Download][download-top-closed-3mf]
-
-- Wi-Fi Dev Board Case Top (closed, stl): [Download][download-top-closed-stl] | [View][view-top-closed-stl]
-
-- Wi-Fi Dev Board Case Bottom (3mf): [Download][download-bottom-3mf]
-
-- Wi-Fi Dev Board Case Bottom (stl): [Download][download-bottom-stl] | [View][view-bottom-stl]
+- Wi-Fi Dev Board Case Bottom: [3mf][download-bottom-3mf] | [stl][download-bottom-stl] | [view][view-bottom-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
