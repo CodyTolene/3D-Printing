@@ -19,13 +19,21 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 
 ### File Downloads
 
-- Boot Cover (3mf): [Download][download-3mf]
+- Boot Cover, no labels (3mf): [Download][download-3mf]
 
-- Boot Cover (stl): [Download][download-stl] | [View][view-stl]
+- Boot Cover, no labels (stl): [Download][download-stl] | [View][view-stl]
 
-- Boot Cover w/ "ESP32" label (3mf): [Download][download-label-3mf]
+- Boot Cover w/ "ESP32" label (3mf): [Download][download-esp32-3mf]
 
-- Boot Cover w/ "ESP32" label (stl): [Download][download-label-stl] | [View][view-label-stl]
+- Boot Cover w/ "ESP32" label (stl): [Download][download-esp32-stl] | [View][view-esp32-stl]
+
+- Boot Cover w/ "Evil Portal" label (3mf): [Download][download-evil-portal-3mf]
+
+- Boot Cover w/ "Evil Portal" label (stl): [Download][download-evil-portal-stl] | [View][view-evil-portal-stl]
+
+- Boot Cover w/ "WiFi Marauder" label (3mf): [Download][download-marauder-3mf]
+
+- Boot Cover w/ "WiFi Marauder" label (stl): [Download][download-marauder-stl] | [View][view-marauder-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
@@ -34,15 +42,22 @@ This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beauti
 <img align="center" src="images/preview_01.png" />
 <img align="center" src="images/preview_02.png" />
 <img align="center" src="images/preview_03.png" />
+<img align="center" src="images/preview_04.png" />
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
 
 [download-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.3mf
-[download-label-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.3mf
-[download-label-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.stl
+[download-esp32-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_esp32.3mf
+[download-esp32-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_esp32.stl
+[download-evil-portal-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Evil_Portal.3mf
+[download-evil-portal-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Evil_Portal.stl
+[download-marauder-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Marauder.3mf
+[download-marauder-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Marauder.stl
 [download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl
 [link-awok-case]: https://www.thingiverse.com/thing:5961313
-[view-label-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Label.stl
+[view-esp32-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_esp32.stl
+[view-evil-portal-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Evil_Portal.stl
+[view-marauder-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover_Marauder.stl
 [view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/Flipper_Zero_WiFi_Dev_Board_Case_Boot_Cover.stl
