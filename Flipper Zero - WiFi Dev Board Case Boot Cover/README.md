@@ -7,11 +7,13 @@
 
 ### Description
 
-This boot cover is made to fit my Flipper Zero WiFi Dev Board case found at the following locations:
+This pin boot cover is made to fit my Flipper Zero WiFi Dev Board case found at the following locations:
 
 https://www.thingiverse.com/thing:6090184
 
 https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case
+
+https://www.thingiverse.com/thing:5564906
 
 This is a remix of AWOK's [ESP32 V4 CASE][link-awok-case], which is quite beautiful. I highly recommend their products.
 
