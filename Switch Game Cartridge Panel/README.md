@@ -32,9 +32,20 @@ For the slim version of this print, see [here][link-switch-game-cartridge-panel-
 
 ### Images
 
+---
+
 <img align="center" src="images/preview_01.png" />
+
+---
+
 <img align="center" src="images/preview_02.png" />
+
+---
+
 <img align="center" src="images/preview_03.png" />
+
+---
+
 <img align="center" src="images/preview_04.png" />
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>

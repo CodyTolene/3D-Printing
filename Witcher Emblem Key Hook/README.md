@@ -19,7 +19,12 @@ A remix of [Witcher towel hook/key holder][link-witcher-key-hook] by Vladeer.
 
 ### Images
 
+---
+
 <img align="center" src="images/preview_01.png" />
+
+---
+
 <img align="center" src="images/preview_02.png" />
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
