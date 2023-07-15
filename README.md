@@ -11,7 +11,7 @@ You may explore, remix, and utilize these designs for your own 3D printing endea
 
 https://www.thingiverse.com/codytolene/designs
 
-ALl of my designs are listed below, you may click on the links to learn more about each design. If you have any questions, please feel free to reach out to me on Twitter: [@CodyTolene](https://twitter.com/CodyTolene).
+All of my designs are listed below, you may click on the links to download and learn more about each of them. If you have any questions, please feel free to reach out to me on Twitter: [@CodyTolene](https://twitter.com/CodyTolene). If you have any suggestions feel free to open a pull request with your changes, open to any contributions and improvements!
 
 ## Index
 
