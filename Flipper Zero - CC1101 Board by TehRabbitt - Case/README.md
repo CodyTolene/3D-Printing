@@ -21,8 +21,8 @@ My print settings:
 - Top/bottom layers: 4
 - Infill density: 20%
 - Infill pattern: Cubic
-- Print temp 210 C
-- Bed temp 20 C
+- Print temp 200 C
+- Bed temp 60 C
 - No supports needed
 
 Enjoy!
@@ -36,6 +36,12 @@ Enjoy!
 - Flipper Zero - CC1101 Board by TehRabbitt - Case (top only): [3mf][download-top-3mf] | [stl][download-top-stl] | [view][view-top-stl]
 
 - Flipper Zero - CC1101 Board by TehRabbitt - Case (bottom only): [3mf][download-bottom-3mf] | [stl][download-bottom-stl] | [view][view-bottom-stl]
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
+
+### License
+
+CC-BY-NC-4.0 ([view license][link-license])
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
@@ -73,14 +79,24 @@ Enjoy!
 
 <!-- LINKS -->
 
-[download-bottom-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Bottom.3mf
-[download-bottom-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Bottom.stl
+[link-flipper-zero]: https://flipperzero.one/
+[link-license]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/LICENSE.md
+[link-tindie-cc1101]: https://www.tindie.com/products/tehrabbitt/flipper-zero-cc1101-expansion-board-by-tehrabbitt/
+
+<!-- DOWNLOADS: SET 1 -->
+
 [download-full-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Full.3mf
 [download-full-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Full.stl
+[view-full-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Full.stl
+
+<!-- DOWNLOADS: SET 2 -->
+
 [download-top-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Top.3mf
 [download-top-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Top.stl
-[link-flipper-zero]: https://flipperzero.one/
-[link-tindie-cc1101]: https://www.tindie.com/products/tehrabbitt/flipper-zero-cc1101-expansion-board-by-tehrabbitt/
-[view-bottom-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Bottom.stl
-[view-full-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Full.stl
 [view-top-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Top.stl
+
+<!-- DOWNLOADS: SET 3 -->
+
+[download-bottom-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Bottom.3mf
+[download-bottom-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Bottom.stl
+[view-bottom-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/Flipper_Zero_CC1101_Board_Case_Bottom.stl

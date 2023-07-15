@@ -23,6 +23,12 @@ Unleash your inner enigma with the Guy Fawkes Printable Half Mask. Let it shroud
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
+### License
+
+CC-BY-NC-4.0 ([view license][link-license])
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
+
 ### Images
 
 ---
@@ -52,6 +58,10 @@ Unleash your inner enigma with the Guy Fawkes Printable Half Mask. Let it shroud
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 <!-- LINKS -->
+
+[link-license]: https://github.com/CodyTolene/3D-Printing/blob/main/Guy%20Fawkes%20Half%20Mask/LICENSE.md
+
+<!-- DOWNLOADS: SET 1 -->
 
 [download-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Guy%20Fawkes%20Half%20Mask/Guy%20Fawkes%20Half%20Mask.3mf
 [download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Guy%20Fawkes%20Half%20Mask/Guy%20Fawkes%20Half%20Mask.stl

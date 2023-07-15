@@ -18,6 +18,7 @@ Unleash your creativity and enjoy the endless possibilities of 3D printing with 
 ## Index
 
 - [Flipper Zero - CC1101 Board by TehRabbitt - Case][print-flipper-zero-cc1101-tehrabbitt-case]
+- [Flipper Zero - CC1101 Board by TehRabbitt - Case Pin Boot Cover][print-flipper-zero-cc1101-tehrabbitt-case-boot-cover]
 - [Flipper Zero - Infrared (IR) Blaster Case][print-flipper-zero-infrared-ir-blaster-case]
 - [Flipper Zero - Infrared (IR) Blaster Case Boot Cover][print-flipper-zero-infrared-ir-blaster-case-boot-cover]
 - [Flipper Zero - WiFi Dev Board Case][print-flipper-zero-wifi-case]
@@ -33,12 +34,13 @@ Cody
 
 <!-- LINKS -->
 
-[print-flipper-zero-cc1101-tehrabbitt-case]: Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/README.md
-[print-flipper-zero-infrared-ir-blaster-case-boot-cover]: Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/README.md
-[print-flipper-zero-infrared-ir-blaster-case]: Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/README.md
-[print-flipper-zero-wifi-case-boot-cover]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/README.md
-[print-flipper-zero-wifi-case]: Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/README.md
-[print-guy-fawkes-half-mask]: Guy%20Fawkes%20Half%20Mask/README.md
-[print-switch-game-cartridge-panel-slim]: Switch%20Game%20Cartridge%20Panel%20(slim)/README.md
-[print-switch-game-cartridge-panel]: Switch%20Game%20Cartridge%20Panel/README.md
-[print-witcher-emblem-key-hook]: Witcher%20Emblem%20Key%20Hook/README.md
+[print-flipper-zero-cc1101-tehrabbitt-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case%20Pin%20Boot%20Cover/README.md
+[print-flipper-zero-cc1101-tehrabbitt-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/README.md
+[print-flipper-zero-infrared-ir-blaster-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/README.md
+[print-flipper-zero-infrared-ir-blaster-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/README.md
+[print-flipper-zero-wifi-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/README.md
+[print-flipper-zero-wifi-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/README.md
+[print-guy-fawkes-half-mask]: https://github.com/CodyTolene/3D-Printing/blob/main/Guy%20Fawkes%20Half%20Mask/README.md
+[print-switch-game-cartridge-panel-slim]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel%20(slim)/README.md
+[print-switch-game-cartridge-panel]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/README.md
+[print-witcher-emblem-key-hook]: https://github.com/CodyTolene/3D-Printing/blob/main/Witcher%20Emblem%20Key%20Hook/README.md

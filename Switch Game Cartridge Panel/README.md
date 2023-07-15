@@ -30,6 +30,12 @@ For the slim version of this print, see [here][link-switch-game-cartridge-panel-
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
+### License
+
+CC-BY-NC-4.0 ([view license][link-license])
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
+
 ### Images
 
 ---
@@ -52,10 +58,17 @@ For the slim version of this print, see [here][link-switch-game-cartridge-panel-
 
 <!-- LINKS -->
 
+[link-license]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/LICENSE.md
+[link-switch-game-cartridge-panel-slim]: https://github.com/CodyTolene/3D-Printing/tree/main/Switch%20Game%20Cartridge%20Panel%20%28slim%29
+
+<!-- DOWNLOADS: SET 1 -->
+
 [download-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel.3mf
 [download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel.stl
+[view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel.stl
+
+<!-- DOWNLOADS: SET 2 -->
+
 [download-wall-mount-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel%20Wall%20Mount.3mf
 [download-wall-mount-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel%20Wall%20Mount.stl
-[link-switch-game-cartridge-panel-slim]: https://github.com/CodyTolene/3D-Printing/tree/main/Switch%20Game%20Cartridge%20Panel%20%28slim%29
-[view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel.stl
 [view-wall-mount-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/Switch%20Game%20Cartridge%20Panel%20Wall%20Mount.stl

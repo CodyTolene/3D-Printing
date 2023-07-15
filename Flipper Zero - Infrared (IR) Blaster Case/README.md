@@ -22,14 +22,20 @@ My print settings:
 - Hatchbox PLA
 - 0.16mm layer height
 - Infill density: 100%
-- Print temp 210 C
-- Bed temp 20 C
+- Print temp 200 C
+- Bed temp 60 C
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
 ### File Downloads
 
 - Flipper Zero - Infrared (IR) Blaster Case: [3mf][download-3mf] | [stl][download-stl] | [view][view-stl]
+
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
+
+### License
+
+CC-BY-NC-4.0 ([view license][link-license])
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
@@ -67,8 +73,12 @@ My print settings:
 
 <!-- LINKS -->
 
+[link-flipper-zero]: https://flipperzero.one/
+[link-license]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/LICENSE.md
+[link-tindie-ir-blaster]: https://www.tindie.com/products/tehrabbitt/flipper-zero-ir-blaster/
+
+<!-- DOWNLOADS: SET 1 -->
+
 [download-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/flipper-zero-infrared-ir-blaster-case.3mf
 [download-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/flipper-zero-infrared-ir-blaster-case.stl
-[link-flipper-zero]: https://flipperzero.one/
-[link-tindie-ir-blaster]: https://www.tindie.com/products/tehrabbitt/flipper-zero-ir-blaster/
 [view-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/flipper-zero-infrared-ir-blaster-case.stl
