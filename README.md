@@ -7,13 +7,11 @@
 
 Welcome to my curated collection of printable materials, crafted with passion and offered to you free of charge.
 
-Feel free to explore and utilize these designs for your 3D printing endeavors. To make it even more convenient for you, these designs are also available on Thingiverse, a popular platform for sharing 3D printable creations.
-
-Alternatively you may visit my Thingiverse profile for these same designs, with a different browsing experience:
+You may explore, remix, and utilize these designs for your own 3D printing endeavors. To make it even more convenient for you, these designs are also available on Thingiverse, a popular platform for sharing 3D printable creations:
 
 https://www.thingiverse.com/codytolene/designs
 
-Unleash your creativity and enjoy the endless possibilities of 3D printing with these resources.
+ALl of my designs are listed below, you may click on the links to learn more about each design. If you have any questions, please feel free to reach out to me on Twitter: [@CodyTolene](https://twitter.com/CodyTolene).
 
 ## Index
 
