@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="../.github/images/3d.png" />
-  <h2 align="center">Nintendo Switch Game Cartridge Panel (slim)</h2>
+  <h2 align="center">Witcher Emblem Key Hook</h2>
 </div>
 
 ### Description
