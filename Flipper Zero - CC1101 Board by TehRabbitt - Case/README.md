@@ -11,6 +11,12 @@ Introducting a quick and practical case I put together to fit the CC1101 expansi
 
 To assemble the case, you'll need two M2x10mm screws and two M2 nuts. Don't worry about sourcing these components; I've made it easier for you by providing a direct Amazon link where you can find the same M2 screw set I recommend (https://amzn.to/3NTcd8R). By purchasing through this link, you also show your support for my work - thank you!
 
+This design also has a pin protector boot cover that can be found in the following locations:
+
+- https://www.thingiverse.com/thing:6123576
+
+- https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case%20Pin%20Boot%20Cover
+
 My print settings:
 
 - Hatchbox PLA

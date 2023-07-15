@@ -15,7 +15,11 @@ What this case does not do:
 - Read you a poem.
 - Protect you from the Rebel Alliance's Red Squadron.
 
-For a secure assembly, make use of four M2x4mm screws along with four M2 nuts. To conveniently acquire these screws, follow this Amazon link: (https://amzn.to/3NTcd8R).
+This design also has a pin protector boot cover that can be found in the following locations:
+
+- https://www.thingiverse.com/thing:6106176
+
+- https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover
 
 My print settings:
 

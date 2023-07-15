@@ -13,6 +13,12 @@ This creation is a remix of magdong's [Wi-Fi Dev Board Case][link-wifi-case] met
 
 For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boasting a sleek black oxide finish. To conveniently acquire these screws, follow this [Amazon Link][link-amazon-parts] (https://amzn.to/43Z3rvN).
 
+This design also has a pin protector boot cover that can be found in the following locations:
+
+- https://www.thingiverse.com/thing:6104552
+
+- https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover
+
 My print settings:
 
 - Hatchbox PLA
