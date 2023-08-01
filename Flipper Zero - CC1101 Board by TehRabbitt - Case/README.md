@@ -9,7 +9,7 @@
 
 Introducting a quick and practical case I put together to fit the CC1101 expansion board made by TehRabbitt. The board can be purchased on Tindie [here][link-tindie-cc1101]. The board is designed to be used with the Flipper Zero, which can be found [here][link-flipper-zero].
 
-To assemble the case, you'll need two M2x10mm screws and two M2 nuts. Don't worry about sourcing these components; I've made it easier for you by providing a direct Amazon link where you can find the same M2 screw set I recommend (https://amzn.to/3NTcd8R). By purchasing through this link, you also show your support for my work - thank you!
+To assemble the case, you'll need two M2x10mm screws and two M2 nuts. Don't worry about sourcing these components; I've made it easier for you by providing a direct Amazon link where you can find the same M2 screw set I recommend (https://amzn.to/3OF3988). By purchasing through this link, you also show your support for my work - thank you!
 
 This design also has a pin protector boot cover that can be found in the following locations:
 

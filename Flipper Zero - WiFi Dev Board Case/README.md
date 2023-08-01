@@ -11,7 +11,7 @@ Elevate your Flipper Zero experience with the exceptional Flipper Zero: Wi-Fi De
 
 This creation is a remix of magdong's [Wi-Fi Dev Board Case][link-wifi-case] meticulously tailored to fit the unique specifications of the [Flipper Zero WiFi Devboard][link-flipper-zero-wifi-devboard].
 
-For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boasting a sleek black oxide finish. To conveniently acquire these screws, follow this [Amazon Link][link-amazon-parts] (https://amzn.to/43Z3rvN).
+For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts, boasting a sleek black oxide finish. To conveniently acquire these screws, follow this [Amazon Link][link-amazon-parts] (https://amzn.to/3OgPgLR).
 
 This design also has a pin protector boot cover that can be found in the following locations:
 
@@ -103,7 +103,7 @@ CC-BY-NC-4.0 ([view license][link-license])
 
 <!-- LINKS -->
 
-[link-amazon-parts]: https://amzn.to/43Z3rvN
+[link-amazon-parts]: https://amzn.to/3OgPgLR
 [link-flipper-zero-wifi-devboard]: https://shop.flipperzero.one/products/wifi-devboard
 [link-flipper-zero]: https://flipperzero.one/
 [link-license]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/LICENSE.md
