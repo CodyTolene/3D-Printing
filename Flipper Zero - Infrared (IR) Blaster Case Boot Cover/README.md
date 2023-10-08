@@ -9,6 +9,8 @@
 
 This boot cover is made to fit my Flipper Zero Infrared (IR) Blaster case found at the following locations:
 
+- https://www.printables.com/model/606855
+
 - https://www.thingiverse.com/thing:6106025
 
 - https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case

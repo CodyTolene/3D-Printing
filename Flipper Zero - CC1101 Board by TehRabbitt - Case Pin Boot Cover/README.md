@@ -9,6 +9,8 @@
 
 This boot cover is made to fit my Flipper Zero - CC1101 Board by TehRabbitt case found at the following locations:
 
+- https://www.printables.com/model/606834
+
 - https://www.thingiverse.com/thing:6122121
 
 - https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case

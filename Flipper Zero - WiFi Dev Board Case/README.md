@@ -7,13 +7,15 @@
 
 ### Description
 
-Elevate your Flipper Zero experience with the exceptional Flipper Zero: Wi-Fi Dev Board Case (Basic). This print is specifically designed for the basic WiFi board straight out of the box, omitting features such as the antenna and SD card slot.
+This print is specifically designed for the basic WiFi board straight out of the box, omitting features such as the antenna and SD card slot.
 
-This creation is a remix of magdong's [Wi-Fi Dev Board Case][link-wifi-case] meticulously tailored to fit the unique specifications of the [Flipper Zero WiFi Devboard][link-flipper-zero-wifi-devboard].
+This creation is a remix of magdong's Wi-Fi Dev Board Case (https://www.thingiverse.com/thing:5564906).
 
 For secure assembly, utilize 4 x M3x12mm screws accompanied by 4 x M3 nuts.
 
 This design also has a pin protector boot cover that can be found in the following locations:
+
+- https://www.printables.com/model/606861
 
 - https://www.thingiverse.com/thing:6104552
 

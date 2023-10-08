@@ -17,6 +17,8 @@ What this case does not do:
 
 This design also has a pin protector boot cover that can be found in the following locations:
 
+- https://www.printables.com/model/606849
+
 - https://www.thingiverse.com/thing:6106176
 
 - https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover

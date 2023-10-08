@@ -13,6 +13,8 @@ To assemble the case, you'll need two M2x10mm screws and two M2 nuts.
 
 This design also has a pin protector boot cover that can be found in the following locations:
 
+- https://www.printables.com/model/606839
+
 - https://www.thingiverse.com/thing:6123576
 
 - https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case%20Pin%20Boot%20Cover
