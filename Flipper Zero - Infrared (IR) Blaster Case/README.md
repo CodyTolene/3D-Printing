@@ -7,7 +7,7 @@
 
 ### Description
 
-This is an immaculate suit of armor befitting the esteemed Flipper Zero IR Blaster, forged by the renowned Rabbit-Labs. Armed with seven luminous hyperintensity LED emitters, this magnificent apparatus harnesses the power of infrared transmissions to command the very essence of televisions, air conditioners, and other sentient devices obedient to the sway of IR signals. Fearlessly, the IR Blaster stands ready, its formidable might awaiting those who seek its mastery. Venture forth to secure your own dominion over the IR realm, for the IR Blaster can be obtained from the sacred halls of Tindie [here][link-tindie-ir-blaster].
+This is a suit of armor befitting the esteemed Flipper Zero IR Blaster, forged by the renowned Rabbit-Labs. Armed with seven luminous hyperintensity LED emitters, this apparatus harnesses the power of infrared transmissions to command the very essence of televisions, air conditioners, and other sentient devices obedient to the sway of IR signals. Fearlessly, the IR Blaster stands ready, its formidable might awaiting those who seek its mastery. Venture forth to secure your own dominion over the IR realm, for the IR Blaster can be obtained from the sacred halls of Tindie [here][link-tindie-ir-blaster].
 
 What this case does not do:
 

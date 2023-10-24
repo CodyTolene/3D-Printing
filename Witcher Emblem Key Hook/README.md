@@ -5,7 +5,7 @@
 
 ### Description
 
-Introducing the exquisite Witcher Emblem, forged with precision at Kaer Morhen. This mountable masterpiece boasts a dovetail slide wall mount back plate, allowing you to effortlessly attach and slide the medallion key hook into place. The meticulous design ensures a perfect fit, as the dovetail rail on the back plate is crafted slightly smaller than the back-inlet of the front piece. With a little cleaning, you'll experience seamless sliding without any hassle.
+Witcher Emblem, forged with precision at Kaer Morhen. This mountable masterpiece boasts a dovetail slide wall mount back plate, allowing you to attach and slide the medallion key hook into place. The design uses a dovetail rail on the back plate which is slightly smaller than the back-inlet of the front piece. With a little cleaning, you'll get seamless sliding without any hassle.
 
 A remix of [Witcher towel hook/key holder][link-witcher-key-hook] by Vladeer.
 
