@@ -7,7 +7,7 @@
 
 ### Description
 
-A minimalistic 3D printable case for the [Flipper Zero Wi-Fi Dev Board][link-flipper-zero-wifi-devboard]. There are two variations of this case, a larger XL version and a normal version. The XL version has a larger under-cavity for additional board additions such as a GPS module. The normal version has a smaller under-cavity for minimal wiring and easy prison wallet storage. Both versions have antenna and/or Micro SD card slot options.
+A minimalistic 3D printable case for the [Flipper Zero Wi-Fi Dev Board][link-flipper-zero-wifi-devboard]. There are two variations of this case, a larger XL version and a normal size MD version. The XL version has a larger under-cavity for addons such as a GPS module. The MD version has a smaller under-cavity for minimal wiring. Both versions have antenna and/or Micro SD card slot options.
 
 ### Bottom Variations
 
