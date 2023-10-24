@@ -9,7 +9,7 @@
 
 A minimalistic 3D printable case for the [Flipper Zero Wi-Fi Dev Board][link-flipper-zero-wifi-devboard]. There are two variations of this case, a larger XL version and a normal version. The XL version has a larger under-cavity for additional board additions such as a GPS module. The normal version has a smaller under-cavity for minimal wiring and easy ~~prison wallet~~ storage. Both versions have antenna and/or Micro SD card slot options.
 
-### Variations
+### Bottom Variations
 
 #### XL (17.75mm thick), 11mm under-cavity, GPS/additions capable:
 
@@ -48,6 +48,12 @@ A minimalistic 3D printable case for the [Flipper Zero Wi-Fi Dev Board][link-fli
   - [3mf][download-md-bare-3mf] | [stl][download-md-bare-stl] | [view][view-md-bare-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
+
+### Cover / Buttons
+
+- **Cover** > [3mf][download-cover-3mf] | [stl][download-cover-stl] | [view][view-cover-stl]
+
+- **Buttons** > [3mf][download-buttons-3mf] | [stl][download-buttons-stl] | [view][view-buttons-stl]
 
 ### Assembly
 
@@ -174,3 +180,15 @@ CC-BY-NC-4.0 ([view license][link-license])
 [download-md-bare-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/MD_Bare.3mf
 [download-md-bare-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/MD_Bare.stl
 [view-md-bare-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/MD_Bare.stl
+
+<!-- DOWNLOADS: Buttons -->
+
+[download-buttons-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/Buttons.3mf
+[download-buttons-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/Buttons.stl
+[view-buttons-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/Buttons.stl
+
+<!-- DOWNLOADS: Cover -->
+
+[download-cover-3mf]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/Cover.3mf
+[download-cover-stl]: https://github.com/CodyTolene/3D-Printing/raw/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/Cover.stl
+[view-cover-stl]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20+%20SD)/Cover.stl
