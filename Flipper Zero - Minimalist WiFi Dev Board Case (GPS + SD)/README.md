@@ -51,9 +51,13 @@ A minimalistic 3D printable case for the [Flipper Zero Wi-Fi Dev Board][link-fli
 
 ### Cover / Buttons
 
-- **Cover** > [3mf][download-cover-3mf] | [stl][download-cover-stl] | [view][view-cover-stl]
+- **XL/MD** > Cover
 
-- **Buttons** > [3mf][download-buttons-3mf] | [stl][download-buttons-stl] | [view][view-buttons-stl]
+  - [3mf][download-cover-3mf] | [stl][download-cover-stl] | [view][view-cover-stl]
+
+- **XL/MD** > Buttons
+
+  - [3mf][download-buttons-3mf] | [stl][download-buttons-stl] | [view][view-buttons-stl]
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
 
