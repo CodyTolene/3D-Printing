@@ -55,6 +55,8 @@ A minimalistic 3D printable case for the [Flipper Zero Wi-Fi Dev Board][link-fli
 
 - **Buttons** > [3mf][download-buttons-3mf] | [stl][download-buttons-stl] | [view][view-buttons-stl]
 
+<p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
+
 ### Assembly
 
 The case is designed to be printed in three parts, a top, buttons for the top, a bottom, and then screwed together using 4 x M3x16mm screws w/ 4 x M3 nuts. Place buttons in the top piece and install upside down so buttons don't fall out.
