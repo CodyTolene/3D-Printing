@@ -77,7 +77,6 @@ The case is designed to be printed in three parts, a top, buttons for the top, a
 - Trim your buttons and make sure they slide nicely and stay put when inserted.
 - Trim your hex holes and do not force the screws heads in flush, they should slide in nicely.
 - Be careful not to pinch wires, use black tape to keep things in place if you need to.
-- If you're lazy like me but care about your board, use black tap to keep your GPS and board separated.
 
 Enjoy!
 
