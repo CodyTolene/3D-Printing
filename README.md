@@ -9,6 +9,8 @@ Welcome to my curated collection of printable materials, free of charge.
 
 You may explore, remix, and utilize these designs for your own 3D printing endeavors. To make it even more convenient for you, these designs are also available on other platforms you may otherwise prefer:
 
+- https://www.makerworld.com/en/@cody_tolene
+
 - https://www.thingiverse.com/codytolene/designs
 
 - https://www.printables.com/@codytolene_1304670/models
@@ -19,6 +21,7 @@ All of my 3D designs on GitHub are listed below, you can click on the links to d
 
 - [Flipper Zero - CC1101 Board by TehRabbitt - Case Pin Boot Cover][print-flipper-zero-cc1101-tehrabbitt-case-boot-cover]
 - [Flipper Zero - CC1101 Board by TehRabbitt - Case][print-flipper-zero-cc1101-tehrabbitt-case]
+- [Flipper Zero - Desk Stand][print-flipper-zero-desk-stand]
 - [Flipper Zero - Infrared (IR) Blaster Case Pin Boot Cover][print-flipper-zero-infrared-ir-blaster-case-boot-cover]
 - [Flipper Zero - Infrared (IR) Blaster Case][print-flipper-zero-infrared-ir-blaster-case]
 - [Flipper Zero - Minimalist WiFi Dev Board Case (GPS + SD)][print-flipper-zero-minimalist-case]
@@ -39,9 +42,10 @@ Cody
 [github-issues-link]: https://github.com/CodyTolene/3D-Printing/issues
 [print-flipper-zero-cc1101-tehrabbitt-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case%20Pin%20Boot%20Cover/README.md
 [print-flipper-zero-cc1101-tehrabbitt-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/README.md
+[print-flipper-zero-desk-stand]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Desk%20Stand/README.md
 [print-flipper-zero-infrared-ir-blaster-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case%20Boot%20Cover/README.md
 [print-flipper-zero-infrared-ir-blaster-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Infrared%20(IR)%20Blaster%20Case/README.md
-[print-flipper-zero-minimalist-case]: https://github.com/CodyTolene/3D-Printing/tree/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20%2B%20SD)
+[print-flipper-zero-minimalist-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Minimalist%20WiFi%20Dev%20Board%20Case%20(GPS%20%2B%20SD)/README.md
 [print-flipper-zero-wifi-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/README.md
 [print-flipper-zero-wifi-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/README.md
 [print-guy-fawkes-half-mask]: https://github.com/CodyTolene/3D-Printing/blob/main/Guy%20Fawkes%20Half%20Mask/README.md
