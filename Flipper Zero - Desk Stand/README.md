@@ -7,6 +7,8 @@
 
 This modern and compact desk stand holds the Flipper Zero securely at a 30-degree angle. It features a single extended arm at the back to provide reliable support for the largest modules on the market. While other stands work well for the Flipper Zero itself, they often tip backwards and topple when using larger GPIO modules. This stand addresses that issue effectively, ensuring stability and reliability.
 
+Note: This stand is designed to be used with the Flipper Zero while it's in a silicone case. It can be used without the case, but it will be more prone to sliding and doesn't fit snug.
+
 ### Printing
 
 All hanging angles are 45 degrees or less to ensure a clean print without supports. The print takes around 1.75 - 2 hours and uses approximately 15g of filament at 50% infill.
@@ -32,11 +34,35 @@ CC-BY-NC-4.0 ([view license][link-license])
 </p>
 
 <p align="center">
-  <img width="500" src="images/01.png" />
+  <img width="500" src="images/01.jpeg" />
 </p>
 
 <p align="center">
-  <img width="500" src="images/02.png" />
+  <img width="500" src="images/02.jpeg" />
+</p>
+
+<p align="center">
+  <img width="500" src="images/03.jpeg" />
+</p>
+
+<p align="center">
+  <img width="500" src="images/04.jpeg" />
+</p>
+
+<p align="center">
+  <img width="500" src="images/05.jpeg" />
+</p>
+
+<p align="center">
+  <img width="500" src="images/06.jpeg" />
+</p>
+
+<p align="center">
+  <img width="500" src="images/07.png" />
+</p>
+
+<p align="center">
+  <img width="500" src="images/08.png" />
 </p>
 
 <p align="right">[ <a href="#top">Top</a> | <a href="../README.md">Index</a> ]</p>
