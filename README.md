@@ -33,7 +33,7 @@ All of my 3D designs on GitHub are listed below, you can click on the links to d
 - [Witcher Emblem Key Hook][print-witcher-emblem-key-hook]
 - [ZeroDock Display Mount (Raspberry Pi Zero)][print-zero-dock-display-mount]
 
-Thank you for visiting! I hope your 3D printing journey is filled with enjoyable experiences and remarkable accomplishments. Happy printing, my friend!
+Happy printing, my friend!
 
 Cody
 
