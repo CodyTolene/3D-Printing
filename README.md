@@ -17,7 +17,7 @@ You may explore, remix, and utilize these designs for your own 3D printing endea
 
 - https://www.printables.com/@codytolene_1304670/models
 
-All of my 3D designs on GitHub are listed below, you can click on the links to download and learn more about each of them. If you have any questions or issues feel free to open a ticket [here][github-issues-link]. If you have any suggestions feel free to open a pull request with your changes, open to any contributions and improvements!
+All of my 3D designs on GitHub are listed below, you can click on the links to download and learn more about each of them. If you have any questions or issues feel free to open a ticket [here][github-issues-link]. If you have any suggestions you may also open a pull request with your changes, open to any contributions and improvements!
 
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
@@ -45,7 +45,7 @@ All of my 3D designs on GitHub are listed below, you can click on the links to d
 
 ## Wrapping Up
 
-Thanks to all the people and projects that made this possible! I hope you enjoy this project as much as I enjoyed working on it. If you have any questions, please let me know by opening an issue [here][github-issues-link].
+Thanks to  everyone who has supported me and my work. If you would like to support me further, you can do so by buying me a coffee or donating Bitcoin. Your support is greatly appreciated and helps me continue to create and share my work with the world.
 
 | Type                                                                      | Info                                                                       |
 | :------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
@@ -56,9 +56,6 @@ Thanks to all the people and projects that made this possible! I hope you enjoy 
 Fin. Happy programming friend!
 
 Cody Tolene
-
-
-Cody
 
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
