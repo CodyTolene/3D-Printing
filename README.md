@@ -1,9 +1,11 @@
-<a name="top"></a>
-
 <div align="center">
   <img align="center" src=".github/images/3d.png" />
   <h1 align="center">3D Printing</h1>
 </div>
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
 
 Welcome to my curated collection of printable materials, free of charge.
 
@@ -16,6 +18,10 @@ You may explore, remix, and utilize these designs for your own 3D printing endea
 - https://www.printables.com/@codytolene_1304670/models
 
 All of my 3D designs on GitHub are listed below, you can click on the links to download and learn more about each of them. If you have any questions or issues feel free to open a ticket [here][github-issues-link]. If you have any suggestions feel free to open a pull request with your changes, open to any contributions and improvements!
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
 
 ## Index
 
@@ -33,13 +39,35 @@ All of my 3D designs on GitHub are listed below, you can click on the links to d
 - [Witcher Emblem Key Hook][print-witcher-emblem-key-hook]
 - [ZeroDock Display Mount (Raspberry Pi Zero)][print-zero-dock-display-mount]
 
-Happy printing, my friend!
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## Wrapping Up
+
+Thanks to all the people and projects that made this possible! I hope you enjoy this project as much as I enjoyed working on it. If you have any questions, please let me know by opening an issue [here][github-issues-link].
+
+| Type                                                                      | Info                                                                       |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
+| <img width="48" src=".github/images/ng-icons/email.svg" />                | webmaster@codytolene.com                                                   |
+| <img width="48" src=".github/images/simple-icons/buymeacoffee.svg" />     | https://www.buymeacoffee.com/codytolene                                    |
+| <img width="48" src=".github/images/simple-icons/bitcoin-btc-logo.svg" /> | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][link-btc] |
+
+Fin. Happy programming friend!
+
+Cody Tolene
+
 
 Cody
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
 
 <!-- LINKS -->
 
 [github-issues-link]: https://github.com/CodyTolene/3D-Printing/issues
+[link-btc]: https://explorer.btc.com/btc/address/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [print-flipper-zero-cc1101-tehrabbitt-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case%20Pin%20Boot%20Cover/README.md
 [print-flipper-zero-cc1101-tehrabbitt-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/README.md
 [print-flipper-zero-desk-stand]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Desk%20Stand/README.md
