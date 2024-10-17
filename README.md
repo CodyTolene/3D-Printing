@@ -34,6 +34,7 @@ All of my 3D designs on GitHub are listed below, you can click on the links to d
 - [Flipper Zero - WiFi Dev Board Case Pin Boot Cover][print-flipper-zero-wifi-case-boot-cover]
 - [Flipper Zero - WiFi Dev Board Case][print-flipper-zero-wifi-case]
 - [Guy Fawkes Half Mask][print-guy-fawkes-half-mask]
+- [Lambda Cyberdeck 910][print-lambda-cyberdeck-910]
 - [Switch Game Cartridge Panel (slim)][print-switch-game-cartridge-panel-slim]
 - [Switch Game Cartridge Panel][print-switch-game-cartridge-panel]
 - [Witcher Emblem Key Hook][print-witcher-emblem-key-hook]
@@ -74,6 +75,7 @@ Cody Tolene
 [print-flipper-zero-wifi-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case%20Boot%20Cover/README.md
 [print-flipper-zero-wifi-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20WiFi%20Dev%20Board%20Case/README.md
 [print-guy-fawkes-half-mask]: https://github.com/CodyTolene/3D-Printing/blob/main/Guy%20Fawkes%20Half%20Mask/README.md
+[print-lambda-cyberdeck-910]: https://github.com/CodyTolene/3D-Printing/blob/main/Lambda%20Cyberdeck%20910/README.md
 [print-switch-game-cartridge-panel-slim]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel%20(slim)/README.md
 [print-switch-game-cartridge-panel]: https://github.com/CodyTolene/3D-Printing/blob/main/Switch%20Game%20Cartridge%20Panel/README.md
 [print-witcher-emblem-key-hook]: https://github.com/CodyTolene/3D-Printing/blob/main/Witcher%20Emblem%20Key%20Hook/README.md
