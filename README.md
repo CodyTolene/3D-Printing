@@ -48,12 +48,12 @@ All of my 3D designs on GitHub are listed below, you can click on the links to d
 
 Thanks to  everyone who has supported me and my work. If you would like to support me further, you can do so by buying me a coffee or donating Bitcoin. Your support is greatly appreciated and helps me continue to create and share my work with the world.
 
-| Type                                                                      | Info                                                                       |
-| :------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
-| <img width="48" src=".github/images/ng-icons/email.svg" />                | webmaster@codytolene.com                                                   |
-| <img width="48" src=".github/images/simple-icons/github.svg" />           | https://github.com/sponsors/CodyTolene                                     |
-| <img width="48" src=".github/images/simple-icons/buymeacoffee.svg" />     | https://www.buymeacoffee.com/codytolene                                    |
-| <img width="48" src=".github/images/simple-icons/bitcoin-btc-logo.svg" /> | [bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt][link-btc] |
+| Type                                                                      | Info                                                           |
+| :------------------------------------------------------------------------ | :------------------------------------------------------------- |
+| <img width="48" src=".github/images/ng-icons/email.svg" />                | webmaster@codytolene.com                                       |
+| <img width="48" src=".github/images/simple-icons/github.svg" />           | https://github.com/sponsors/CodyTolene                         |
+| <img width="48" src=".github/images/simple-icons/buymeacoffee.svg" />     | https://www.buymeacoffee.com/codytolene                        |
+| <img width="48" src=".github/images/simple-icons/bitcoin-btc-logo.svg" /> | bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt |
 
 Fin. Happy programming friend!
 
@@ -66,7 +66,6 @@ Cody Tolene
 <!-- LINKS -->
 
 [github-issues-link]: https://github.com/CodyTolene/3D-Printing/issues
-[link-btc]: https://explorer.btc.com/btc/address/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [print-flipper-zero-cc1101-tehrabbitt-case-boot-cover]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case%20Pin%20Boot%20Cover/README.md
 [print-flipper-zero-cc1101-tehrabbitt-case]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20CC1101%20Board%20by%20TehRabbitt%20-%20Case/README.md
 [print-flipper-zero-desk-stand]: https://github.com/CodyTolene/3D-Printing/blob/main/Flipper%20Zero%20-%20Desk%20Stand/README.md
